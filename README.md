@@ -1,4 +1,5 @@
-#👋 Hello, I'm Snehal Wath
+##👋 Hello, 
+  I'm Snehal Wath
 🎓 Engineering Student (Data Science)
 📍 RTMNU | Suryodaya College
 💡 Passionate about AI, Machine Learning 
