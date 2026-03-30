@@ -30,6 +30,6 @@ Machine Learning Models
 NLP (Natural Language Processing)
 
 #📫 Connect With Me
-GitHub:https://github.com/snehalwath07
-LinkedIn:https://www.linkedin.com/in/snehal-wath-b874b2331
-Linktree:linktr.ee/snehalwath782
+## GitHub:https://github.com/snehalwath07
+## LinkedIn:https://www.linkedin.com/in/snehal-wath-b874b2331
+##Linktree:linktr.ee/snehalwath782
