@@ -5,7 +5,7 @@
 💡 Passionate about AI, Machine Learning 
 
 # About Me
-I am currently a 3rd year (6th semester) Data Science engineering student.
+I am currently a 4th year (7th semester) Data Science engineering student.
 I am very interested in building real-world AI/ML projects and learning how data can solve problems.
 
 # 🧠 Skills & Technologies
